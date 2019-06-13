@@ -1,0 +1,2 @@
+unzip file and open that project in netBeans.
+Import vision.sql file to server.
